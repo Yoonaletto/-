@@ -25,8 +25,19 @@ public class Thenumberof {
 			}
 		}
 		for(int k=0; k<=9; k++) {
-			System.out.println(strNum[k]);
+			System.out.println(k + ": " +strNum[k]);
 		}
+//		결과
+//		0: 192
+//		1: 301
+//		2: 300
+//		3: 300
+//		4: 300
+//		5: 300
+//		6: 300
+//		7: 300
+//		8: 300
+//		9: 300
 	}
 
 }
